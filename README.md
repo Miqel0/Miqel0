@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Miqel0
-- 👀 I’m interested in informatic
-- 🌱 I’m currently learning Java Script and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Physics
+- 🌱 I’m currently learning c++ and Python.
+
 
 <!---
 Miqel0/Miqel0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
