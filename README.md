@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miqel0
+- 👋 Hi, I’m @Miquel
 - 👀 I’m interested in Physics
 - 🌱 I’m currently learning c++ and Python.
 
