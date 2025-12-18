@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miquel
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning c++ and Python.
+- 🌱 I’m currently learning c, c++ and Python.
 
 
 <!---
